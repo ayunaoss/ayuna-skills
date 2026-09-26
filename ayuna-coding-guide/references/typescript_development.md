@@ -20,10 +20,10 @@ For new projects, use Jest for unit tests and oxlint for linting. Install them o
 
     ```bash
     # For installing jest in the project
-    pnpm add --dev jest
+    pnpm add --save-dev jest
 
     # For installing oxlint in the project
-    pnpm add --dev oxlint
+    pnpm add --save-dev oxlint
     ```
 
 Run repository checks. Without project scripts, run `pnpm test` only when a `test` script exists.

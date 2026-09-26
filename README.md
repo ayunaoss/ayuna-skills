@@ -27,11 +27,11 @@ npx skills add ayunaoss/ayuna-skills
 Install a desired skill as follows.
 
 ```bash
-## Always install the recommended dependency
-npx skills add your-username/ayuna-skills --skill ayuna-coding-guide
+## Always install the recommended dependency for OpenCode
+npx skills add ayunaoss/ayuna-skills --skill ayuna-coding-guide --agent opencode --copy --yes
 
-## Install the desired skill
-npx skills add your-username/ayuna-skills --skill <skill-name>
+## Install the desired skill for OpenCode
+npx skills add ayunaoss/ayuna-skills --skill <skill-name> --agent opencode --copy --yes
 ```
 
 ### Adding skill manually

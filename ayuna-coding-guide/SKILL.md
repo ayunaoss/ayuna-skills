@@ -5,7 +5,7 @@ license: MIT
 metadata:
   version: "0.1"
   author: Ayuna OSS
-  repository: https://github.com/ayuna-oss/ayuna-skills
+  repository: https://github.com/ayunaoss/ayuna-skills
   keywords: golang, python, typescript, best practices, naming conventions, software tools, libraries
 ---
 
